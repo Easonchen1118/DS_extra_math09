@@ -1,5 +1,5 @@
 #include <stdio.h>
-//計算 i 次方的值
+//計算 i 次方的值https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6879
 int main(){
     int num;
     while (scanf("%d", &num) != EOF) {
